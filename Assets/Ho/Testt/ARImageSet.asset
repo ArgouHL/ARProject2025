@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ARImageSet
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5335579580513455023
+  m_GuidHigh: 15284961415008338365
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5222621335141067454
+      m_GuidHigh: 15439115923269018252
+    m_SerializedTextureGuid:
+      m_GuidLow: 17042974358656253364
+      m_GuidHigh: 12024372779545354219
+    m_Size: {x: 0.365, y: 0.365}
+    m_SpecifySize: 1
+    m_Name: Game1
+    m_Texture: {fileID: 2800000, guid: b3cbfdb4cee1ec84eb5fadcb5527dfa6, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5464270414088248259
+      m_GuidHigh: 2717179248663015309
+    m_SerializedTextureGuid:
+      m_GuidLow: 18380425493465135859
+      m_GuidHigh: 812748581543617018
+    m_Size: {x: 0.365, y: 0.365}
+    m_SpecifySize: 1
+    m_Name: Game2
+    m_Texture: {fileID: 2800000, guid: 4685faf3639aff14fa219c5e8776470b, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4783751098663654778
+      m_GuidHigh: 17180574078477035928
+    m_SerializedTextureGuid:
+      m_GuidLow: 9963119337036556502
+      m_GuidHigh: 6584067626930627434
+    m_Size: {x: 0.365, y: 0.365}
+    m_SpecifySize: 1
+    m_Name: Game3
+    m_Texture: {fileID: 2800000, guid: 0ae3a8d61c408a446a6359709f4e5f5b, type: 3}

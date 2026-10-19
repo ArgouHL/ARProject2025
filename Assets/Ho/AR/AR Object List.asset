@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ead33cc37a6e8e4587149eb21d3cd77, type: 3}
+  m_Name: AR Object List
+  m_EditorClassIdentifier: 
+  aRObjs:
+  - obj: {fileID: 1561657577689008528, guid: 2e8c94be59eff1647a66186dd68c7b79, type: 3}
+    key: Game1
+  - obj: {fileID: 6805730401452341699, guid: e2730a9c392b18f4dae3958561a8788a, type: 3}
+    key: Game2
+  - obj: {fileID: 8221762667174768145, guid: 2692c134d7e15eb47a795dec5b332334, type: 3}
+    key: Game3

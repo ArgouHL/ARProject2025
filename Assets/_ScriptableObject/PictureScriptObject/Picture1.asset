@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dba18f8ea12442c81688567d946340f, type: 3}
+  m_Name: Picture1
+  m_EditorClassIdentifier: 
+  pictureSprite: {fileID: 21300000, guid: a48152c85d8405343ae480d194469104, type: 3}
+  inPictureObjects:
+  - pictureObject: {fileID: 5406440983990493594, guid: c3cb165e72b51f84ebf358ca0889a333, type: 3}
+    cameraPictureRelativePosition: {x: 0.13439612, y: -3.2927825, z: 6.281937}
+    rotation: {x: 0.08175731, y: -0.27298257, z: -0.023290565, w: 0.95825565}
